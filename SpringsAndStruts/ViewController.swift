@@ -35,9 +35,6 @@ class ViewController: UIViewController {
             greyView.frame = CGRect(x: 25, y: 348, width: 160, height: 300)
             blueView.frame = CGRect(x: 191, y: 348, width: 160, height: 300)
         }
-        
     }
-
-
 }
 
